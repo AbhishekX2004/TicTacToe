@@ -1,0 +1,2 @@
+.App{font-family:Arial,sans-serif;margin:20px;text-align:center}h1{font-size:2.5em;margin-bottom:20px}.board{grid-gap:10px;display:grid;grid-template-columns:repeat(3,100px);justify-content:center}.square{background-color:#fff;border:2px solid #000;cursor:pointer;font-size:2em;font-weight:700;height:100px;width:100px}.square:disabled{background-color:#ddd;cursor:not-allowed}.result{font-size:1.5em;margin-top:20px}.result button{cursor:pointer;font-size:1em;margin-top:10px;padding:10px 20px}
+/*# sourceMappingURL=main.74fc992a.css.map*/
